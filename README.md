@@ -11,3 +11,5 @@ Problem.py contains class of santa's stolen sleigh problem, which includes greed
 SA.py contains SA method for solving onetrip problem.
 
 Column generation and sa csv - the saved solution of sa and column generation methods 
+
+Additionally the comparison of greedy methods and graph visualization is provided in Ignatov_stolen-sleigh_22.12 file
